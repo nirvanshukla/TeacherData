@@ -8,7 +8,7 @@ This capstone project explores student evaluation data to analyze trends and bia
 ### Files
 
 - IDSCapstoneCode will contain the code utilized for this project.
-- IDS_Capstone_Project will contain the write-up for the project. 
+- IDS_Capstone_Projects will contain the write-up for the project. 
 
 
 
